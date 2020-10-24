@@ -30,11 +30,16 @@ nav {
   border: none;
 }
 
-li a {
+.col ul li a {
   color: #008080;
   text-decoration: underline;
 }
 
 .btn:hover {
   background-color: #242900;
+}
+
+.footer {
+  background-color: #637371;
+  color: black;
 }
