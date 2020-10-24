@@ -12,4 +12,28 @@ body, html {
 
 .card {
     margin-top: 30px;
+    background-color: #D2CEC5;
+}
+
+nav {
+    background-color: #A6C3BF;
+}
+
+.btn {
+    background-color: #8FA7A3;
+    border: #8FA7A3;
+}
+
+.form-control {
+    background-color: whitesmoke;
+    border: none;
+}
+
+li a {
+    color: #008080;
+    text-decoration: underline;
+}
+
+.btn:hover{
+    background-color: #242900;
 }
