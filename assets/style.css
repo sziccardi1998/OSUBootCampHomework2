@@ -5,6 +5,14 @@ html {
 
 .bg {
   background-image: url("images/backgroundImage.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.port{
+  background-image: url("images/backgroundImage.jpg");
   height: auto;
   background-position: center;
   background-repeat: no-repeat;
