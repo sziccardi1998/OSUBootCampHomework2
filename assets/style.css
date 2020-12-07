@@ -5,7 +5,7 @@ html {
 
 .bg {
   background-image: url("images/backgroundImage.jpg");
-  height: 100%;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -42,4 +42,8 @@ nav {
 .footer {
   background-color: #637371;
   color: black;
+}
+
+.content {
+  background-color: #dcd5c6;
 }
