@@ -4,9 +4,9 @@
 The Portfolio website contains space to host thumbnails of future projects, contact information, and a small bio of myself.
 
 ## Screenshot:
-![screenshot](./assets/images/HomeworkSnip.jpg)
-![screenshot](./assets/images/HomeworkSnip2.jpg)
-![screenshot](./assets/images/HomeworkSnip3.jpg)
+![screenshot](./assets/images/HomeworkSnip.JPG)
+![screenshot](./assets/images/HomeworkSnip2.JPG)
+![screenshot](./assets/images/HomeworkSnip3.JPG)
 
 
 
